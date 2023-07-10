@@ -1,0 +1,8 @@
+E:\BMap.NET-master\BMap.NET\bin\Debug\BMap.NET.dll.config
+E:\BMap.NET-master\BMap.NET\bin\Debug\BMap.NET.dll
+E:\BMap.NET-master\BMap.NET\bin\Debug\BMap.NET.pdb
+E:\BMap.NET-master\BMap.NET\bin\Debug\Newtonsoft.Json.dll
+E:\BMap.NET-master\BMap.NET\obj\Debug\BMap.NET.csprojAssemblyReference.cache
+E:\BMap.NET-master\BMap.NET\obj\Debug\BMap.NET.csproj.CopyComplete
+E:\BMap.NET-master\BMap.NET\obj\Debug\BMap.NET.dll
+E:\BMap.NET-master\BMap.NET\obj\Debug\BMap.NET.pdb

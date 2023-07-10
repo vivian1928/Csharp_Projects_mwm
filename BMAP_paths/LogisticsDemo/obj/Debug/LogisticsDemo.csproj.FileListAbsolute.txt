@@ -1,0 +1,16 @@
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\LogisticsDemo.exe.config
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\LogisticsDemo.exe
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\LogisticsDemo.pdb
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\BMap.NET.dll
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\BMap.NET.WindowsForm.dll
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\Newtonsoft.Json.dll
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\BMap.NET.WindowsForm.pdb
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\BMap.NET.pdb
+E:\BMap.NET-master\LogisticsDemo\bin\Debug\BMap.NET.dll.config
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.csprojAssemblyReference.cache
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.MainForm.resources
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.Properties.Resources.resources
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.csproj.GenerateResource.cache
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.csproj.CopyComplete
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.exe
+E:\BMap.NET-master\LogisticsDemo\obj\Debug\LogisticsDemo.pdb
